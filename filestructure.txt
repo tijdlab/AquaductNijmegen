@@ -3,5 +3,6 @@ Blueprints
 Images
 Landscapes
 Maps
+Marketplace
 Materials
 UI
