@@ -1,6 +1,7 @@
 Assets
 Blueprints
 Images
+Landscapes
 Maps
 Materials
 UI
